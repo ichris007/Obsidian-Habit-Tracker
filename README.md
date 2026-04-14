@@ -12,6 +12,21 @@
 4. **统计分析** - 查看习惯趋势、月度/年度目标进度
 5. **历史数据** - 浏览和编辑所有历史记录
 
+### 界面展示
+
+<div align="center">
+  
+#### 日历视图
+<img src="screenshot/Habit%20Tracker%201.jpg" alt="Calendar View showing 6 days of habits" width="600" />
+
+#### 趋势统计  
+<img src="screenshot/Habit%20Tracker%202.jpg" alt="Statistics view with goals and metrics" width="600" />
+
+#### 历史视图
+<img src="screenshot/Habit%20Tracker%203.jpg" alt="Historical data table with pagination" width="600" />
+
+</div>
+
 ---
 
 ## 🎯 追踪的六大习惯
