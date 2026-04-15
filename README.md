@@ -1,6 +1,6 @@
 
 # Obsidian Habit Tracker
-[Englishi](https://github.com/ichris007/Obsidian-Habit-Tracker/edit/main/README.md) | [中文](https://github.com/ichris007/Obsidian-Habit-Tracker/edit/main/README-ZH.md)
+[Englishi](https://github.com/ichris007/Obsidian-Habit-Tracker/) | [中文](https://github.com/ichris007/Obsidian-Habit-Tracker/blob/main/README-ZH.md)
 
 A **habit tracker** running in the Obsidian Datacore plugin that saves daily habit records directly in the frontmatter of your daily notes, providing a visual tracking interface.
 
