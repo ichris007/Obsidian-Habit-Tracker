@@ -1,5 +1,6 @@
 # Obsidian-Habit-Tracker
-[Englishi](https://github.com/ichris007/Obsidian-Habit-Tracker/edit/main/README.md) | [中文](https://github.com/ichris007/Obsidian-Habit-Tracker/edit/main/README-ZH.md)
+[Englishi](https://github.com/ichris007/Obsidian-Habit-Tracker/) | [中文](https://github.com/ichris007/Obsidian-Habit-Tracker/blob/main/README-ZH.md)
+
 ## 📋 功能概述
 
 这是一个运行在 Obsidian Datacore 插件中的**习惯追踪器**，可以将每日习惯记录直接保存在每日笔记的 frontmatter 中，并提供可视化的追踪界面。
