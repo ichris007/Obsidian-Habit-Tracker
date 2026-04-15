@@ -1,13 +1,13 @@
 # Obsidian-Habit-Tracker
-
+[Englishi](https://github.com/ichris007/Obsidian-Habit-Tracker/edit/main/README.md) | [中文](https://github.com/ichris007/Obsidian-Habit-Tracker/edit/main/README-ZH.md)
 ## 📋 功能概述
 
 这是一个运行在 Obsidian Datacore 插件中的**习惯追踪器**，可以将每日习惯记录直接保存在每日笔记的 frontmatter 中，并提供可视化的追踪界面。
 
-在[此代码](https://forum.obsidian.md/t/building-a-powerful-habit-tracker-in-obsidian-a-complete-guide/92884)基础上修改：
-- 拆分js和CSS代码
-- 适配深色/浅色主题
-- 修改habits frontmatter 为数组格式，并兼容之前的对象格式
+>在[此代码](https://forum.obsidian.md/t/building-a-powerful-habit-tracker-in-obsidian-a-complete-guide/92884)基础上修改：
+>- 拆分js和CSS代码
+>- 适配深色/浅色主题
+>- 修改habits frontmatter 为数组格式，并兼容之前的对象格式
 
 ### 核心功能
 
@@ -143,14 +143,14 @@ habits:
 
 #### 前置要求
 
-1. **Obsidian** 已安装
-2. **Datacore 插件**已安装并启用
-3. 存在 `Notes/Daily Notes/` 文件夹
+1. **Datacore 插件**已安装并启用
+2. 存在 `Notes/Daily Notes/` 文件夹
 
 #### 安装步骤
 
-1. 创建 `habit-tracker.css` 文件，粘贴 CSS 代码
-2. 创建 `habit-tracker.md` 文件，粘贴 JS 代码
+1. 创建 `habit-tracker.css` 文件，粘贴 [CSS](https://github.com/ichris007/Obsidian-Habit-Tracker/blob/main/.obsidian/snippets/habit-tracker.css) 代码；将css文件放入`.obsidian/snippets
+`文件夹下，并在`设置 - 外观 - CSS代码片段`中启用
+2. 创建 `habit-tracker.md` 文件，粘贴 [JS](https://github.com/ichris007/Obsidian-Habit-Tracker/blob/main/Habit%20Tracker.md) 代码
 
 ````markdown
 ```datacorejsx
